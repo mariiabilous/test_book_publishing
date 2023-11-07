@@ -5,7 +5,7 @@ date: "2023-11-07"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: your book url like https://mariiabilous.github.io/test_book_publishing
+url: https://mariiabilous.github.io/test_book_publishing
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
@@ -14,6 +14,8 @@ description: |
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
+
+https://mariiabilous.github.io/test_book_publishing 
 
 # About
 
